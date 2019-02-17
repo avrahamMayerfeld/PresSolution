@@ -1,0 +1,10 @@
+C:\Users\abm8\source\repos\PresSolution\PresConsole\bin\Debug\PresConsole.exe.config
+C:\Users\abm8\source\repos\PresSolution\PresConsole\bin\Debug\PresConsole.exe
+C:\Users\abm8\source\repos\PresSolution\PresConsole\bin\Debug\PresConsole.pdb
+C:\Users\abm8\source\repos\PresSolution\PresConsole\bin\Debug\PresLib.dll
+C:\Users\abm8\source\repos\PresSolution\PresConsole\bin\Debug\PresLib.pdb
+C:\Users\abm8\source\repos\PresSolution\PresConsole\obj\Debug\PresConsole.csprojAssemblyReference.cache
+C:\Users\abm8\source\repos\PresSolution\PresConsole\obj\Debug\PresConsole.csproj.CoreCompileInputs.cache
+C:\Users\abm8\source\repos\PresSolution\PresConsole\obj\Debug\PresConsole.csproj.CopyComplete
+C:\Users\abm8\source\repos\PresSolution\PresConsole\obj\Debug\PresConsole.exe
+C:\Users\abm8\source\repos\PresSolution\PresConsole\obj\Debug\PresConsole.pdb

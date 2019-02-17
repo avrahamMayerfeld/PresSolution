@@ -1,0 +1,5 @@
+C:\Users\abm8\source\repos\PresSolution\PresLib\bin\Debug\PresLib.dll
+C:\Users\abm8\source\repos\PresSolution\PresLib\bin\Debug\PresLib.pdb
+C:\Users\abm8\source\repos\PresSolution\PresLib\obj\Debug\PresLib.csproj.CoreCompileInputs.cache
+C:\Users\abm8\source\repos\PresSolution\PresLib\obj\Debug\PresLib.dll
+C:\Users\abm8\source\repos\PresSolution\PresLib\obj\Debug\PresLib.pdb

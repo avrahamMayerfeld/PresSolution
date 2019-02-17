@@ -1,0 +1,13 @@
+C:\Users\abm8\source\repos\PresSolution\PresGUI\bin\Debug\PresGUI.exe.config
+C:\Users\abm8\source\repos\PresSolution\PresGUI\bin\Debug\PresGUI.exe
+C:\Users\abm8\source\repos\PresSolution\PresGUI\bin\Debug\PresGUI.pdb
+C:\Users\abm8\source\repos\PresSolution\PresGUI\bin\Debug\PresLib.dll
+C:\Users\abm8\source\repos\PresSolution\PresGUI\bin\Debug\PresLib.pdb
+C:\Users\abm8\source\repos\PresSolution\PresGUI\obj\Debug\PresGUI.csprojAssemblyReference.cache
+C:\Users\abm8\source\repos\PresSolution\PresGUI\obj\Debug\PresGUI.Form1.resources
+C:\Users\abm8\source\repos\PresSolution\PresGUI\obj\Debug\PresGUI.Properties.Resources.resources
+C:\Users\abm8\source\repos\PresSolution\PresGUI\obj\Debug\PresGUI.csproj.GenerateResource.cache
+C:\Users\abm8\source\repos\PresSolution\PresGUI\obj\Debug\PresGUI.csproj.CoreCompileInputs.cache
+C:\Users\abm8\source\repos\PresSolution\PresGUI\obj\Debug\PresGUI.csproj.CopyComplete
+C:\Users\abm8\source\repos\PresSolution\PresGUI\obj\Debug\PresGUI.exe
+C:\Users\abm8\source\repos\PresSolution\PresGUI\obj\Debug\PresGUI.pdb
