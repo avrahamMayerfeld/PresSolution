@@ -38,16 +38,12 @@ namespace PresLib
 
     public String ReturnEligibility()
         {
-
-
             String e; 
-            
-
+        
             if (DetermineEligibility().Equals(true))
                 e= "Congratulations! You are eligible for U.S. Presidency!";
             else
                 e= "Sorry, You may not be a U.S.President.";
-
 
             return e;
             
@@ -59,10 +55,6 @@ namespace PresLib
             Console.WriteLine(msg);
         }
 
-
-    
-
-        
 
     }
 
