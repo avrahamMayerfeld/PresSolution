@@ -13,7 +13,7 @@ namespace PresConsole
         {
             PresFactors p = new PresFactors();
             if (args.Length == 0)
-{
+            {
                 {
                     
 
@@ -22,7 +22,7 @@ namespace PresConsole
                 }
              else{
 
-                }
+                 }
                 
             }
             Console.WriteLine
