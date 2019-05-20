@@ -31,14 +31,10 @@ namespace PresConsole
                     p.USResidenceYears = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("How many times have you been elected President? Enter 0 if none.");
                     p.TimesElected = Convert.ToInt32(Console.ReadLine());
-
-                   
-                
+     
             }
             else
             {
-                
-                
                     string yesNo = (args[0].ToLower());
                     Boolean noYes;
                     if (yesNo.Equals("yes"))
@@ -48,8 +44,8 @@ namespace PresConsole
                     p.NaturalBornCitizen = noYes;
                     
                     p.Age = Convert.ToInt32(args[1]);
-                p.USResidenceYears = Convert.ToInt32(args[2]);
-                p.TimesElected = Convert.ToInt32(args[3]);
+                    p.USResidenceYears = Convert.ToInt32(args[2]);
+                    p.TimesElected = Convert.ToInt32(args[3]);
                   
                 
             }
